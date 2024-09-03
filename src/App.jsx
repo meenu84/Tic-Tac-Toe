@@ -4,7 +4,7 @@ import { useState } from "react";
 
 
 import { WINNING_COMBINATIONS } from "./winning-combinations.js";
-import Player from "./Component/Player.jsx";
+import Player from "./Component/Player";
 import GameBoard from "./Component/GameBoard.jsx";
 import GameOver from "./Component/GameOver.jsx";
 import Log from "./Component/Log.jsx";
