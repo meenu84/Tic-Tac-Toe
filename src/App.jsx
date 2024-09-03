@@ -4,10 +4,10 @@ import { useState } from "react";
 
 
 import { WINNING_COMBINATIONS } from "./winning-combinations.js";
-import Player from "./Component/player.jsx";
+import Player from "./Component/Player.jsx";
 import GameBoard from "./Component/GameBoard.jsx";
 import GameOver from "./Component/GameOver.jsx";
-import Log from "./Component/log.jsx";
+import Log from "./Component/Log.jsx";
 
 const PLAYERS = {
   X: "Player 1",
